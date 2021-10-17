@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-
+To assist Louise with her theater project campaign, we aim to analyze campaign performance in relation to their launch  dates and their funding goals. We plan to influence Louise’s campaign decisions by providing visualizations which demonstrate when is the best time to launch a campaign and how much the goal should be to achieve optimal success. 
 ## Analysis and Challenges 
 
 ### Analysis of Outcomes Based on Launch Date 
