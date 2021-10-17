@@ -11,6 +11,7 @@
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/91925639/137608531-4e099f5a-2287-46d8-8b00-e1d87cb6e19a.png)
 ### Analysis of Outcomes Based on Goals
 
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/91925639/137608590-98c89c13-80c9-45fd-9042-76ed611b3d25.png)
 ### Challenges and Difficulites Encountered 
 
 ## Results 
