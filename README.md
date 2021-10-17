@@ -8,7 +8,7 @@
 
 ### Analysis of Outcomes Based on Launch Date 
 
-### Analysis of OUtcomes Based on Goals
+### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulites Encountered 
 
