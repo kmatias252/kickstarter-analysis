@@ -15,7 +15,7 @@ Our secondary analysis was aimed to help Louise determine what her kickstarter g
 ### Challenges and Difficulites Encountered 
 Some challenges and difficulties encountered during our analysis were related to filtering our data accurately to represent the sample of the population that Louise was inquiring about. When determining the theater outcomes based on launch date it was imperative that our pivot table was displaying the months of the year vs the actual year the campaign was launched. When determining the outcomes based on goals I learned that the countif function applies a “filter” embedded within the formula. I initially filtered the data on the kickstarter tab on outcome and then realized that the formula would already provide you with the outcome by putting the outcome you want in quotation marks and highlighting the columns the data would be found in. 
 ## Results 
-- What are two conclusions you can draw about the Outcomes based on Launch Date? 
+- The conclusions that can be drawn from the Outcomes based on Launch Date analysis are that the most successful months to launch a theater kickstarter campaign are in May and June while the least successful month to launch a theater kickstarter campaign is in October. 
 
 - What can you conclude about the Outcomes based on Goals?
 
