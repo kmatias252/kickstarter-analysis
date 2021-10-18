@@ -1,4 +1,4 @@
-# Kickstaring with Excel
+# Kickstarting with Excel
 
 ## Overview of Project
 
